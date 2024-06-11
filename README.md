@@ -69,6 +69,5 @@
   </table>
 </div>
 <p align="center">
-       
     <img height = "150px" style="margin-left: 10px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monolab825&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
