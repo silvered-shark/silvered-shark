@@ -6,6 +6,11 @@
         <span style="color: #1284C5; display: flex; justify-content: end; padding-right: 10px;">-Richard Stallman</span>
     </h3>
 </div>
+<img src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="400" width="800"  align="center"/>
+
+<br/>
+
+
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
