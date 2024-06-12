@@ -9,7 +9,9 @@
 <div align="center" style="witdh:100%"> 
     <img src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="400" width="800"  align="center" />
     
-    <br>
+    </br>
+
+
 
     
     <table>
