@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a full stack, mobile app and blockchain developer.</h1>
+<h1 align="center">Hi 👋, I'm a full stack and blockchain developer.</h1>
 
 <div align="center">
     <h3>
