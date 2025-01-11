@@ -65,7 +65,6 @@
         <img src="https://img.shields.io/badge/Polkadot-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Solana-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Smart Contract-violet" height="26px" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-violet" height="26px" />
         <img src="https://img.shields.io/badge/Substrate-violet" height="26px" />
       </td>
     </tr>
