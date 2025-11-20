@@ -81,18 +81,18 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="900px">
-        <img src="https://img.shields.io/badge/LLM-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/AI agent-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/VAPI-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/Pytorch-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/Dspy-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/AX-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/Tensorflow-cyan" height="26px" /> 
-        <img src="https://img.shields.io/badge/N8N-cyan" height="26px" />
-        <img src="https://img.shields.io/badge/Generative AI-cyan" height="26px" />
-        <img src="https://img.shields.io/badge/Automation-cyan" height="26px" />
-        <img src="https://img.shields.io/badge/Make-cyan" height="26px" />
-        <img src="https://img.shields.io/badge/Zapier-cyan" height="26px" />        
+        <img src="https://img.shields.io/badge/LLM-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/AI agent-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/VAPI-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/Pytorch-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/Dspy-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/AX-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/Tensorflow-orange" height="26px" /> 
+        <img src="https://img.shields.io/badge/N8N-orange" height="26px" />
+        <img src="https://img.shields.io/badge/Generative AI-orange" height="26px" />
+        <img src="https://img.shields.io/badge/Automation-orange" height="26px" />
+        <img src="https://img.shields.io/badge/Make-orange" height="26px" />
+        <img src="https://img.shields.io/badge/Zapier-orange" height="26px" />        
       </td>
     </tr>
   </table>
