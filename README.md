@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm a full stack and blockchain developer.</h1>
+<h1 align="center">Hi 👋, I'm a developer.</h1>
 
 <div align="center">
     <h3>
-        <span style="color: #E3484D;">“ </span>Treating your program as a work of art encourages writing code that is elegant and artistic — which is great, but it also means that it is hard to understand. When you write code that nobody else can understand, you're being selfish. You're not treating your program as a contribution to society, or even to your employer. You're treating your program as an extension of yourself, as a piece of art.<span style="color: #E3484D;"> ”</span><br /><br />
+        <span style="color: #E3484D;">“ </span>Treating your program as a work of art encourages writing code that is elegant and artistic - which is great, but it also means that it is hard to understand. When you write code that nobody else can understand, you're being selfish. You're not treating your program as a contribution to society, or even to your employer. You're treating your program as an extension of yourself, as a piece of art.<span style="color: #E3484D;"> ”</span><br /><br />
         <span style="color: #1284C5; display: flex; justify-content: end; padding-right: 10px;">-Richard Stallman</span>
     </h3>
 </div>
@@ -66,6 +66,33 @@
         <img src="https://img.shields.io/badge/Solana-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Smart Contract-violet" height="26px" /> 
         <img src="https://img.shields.io/badge/Substrate-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Cardano-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Bitcoin OS-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Sui-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Polygon-violet" height="26px" />
+        <img src="https://img.shields.io/badge/Midnight-violet" height="26px" />
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td valign="center" width="100px" style="font-size: 20px;"><b>Artificial Intelligence<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="900px">
+        <img src="https://img.shields.io/badge/LLM-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/AI agent-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/VAPI-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/Pytorch-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/Dspy-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/AX-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/Tensorflow-cyan" height="26px" /> 
+        <img src="https://img.shields.io/badge/N8N-cyan" height="26px" />
+        <img src="https://img.shields.io/badge/Generative AI-cyan" height="26px" />
+        <img src="https://img.shields.io/badge/Automation-cyan" height="26px" />
+        <img src="https://img.shields.io/badge/Make-cyan" height="26px" />
+        <img src="https://img.shields.io/badge/Zapier-cyan" height="26px" />        
       </td>
     </tr>
   </table>
